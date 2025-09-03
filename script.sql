@@ -1,3 +1,6 @@
+AYUDAAAAAA NOSE QUE PONEEEER
+
+
 drop table alumnos;
 drop table profesores;
 
